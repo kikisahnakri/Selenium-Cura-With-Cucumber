@@ -1,0 +1,7 @@
+stepsDefinition\appointmentSteps.class
+utils\TestRunner.class
+stepsObject\loginPage.class
+stepsDefinition\loginSteps.class
+stepsObject\makeAppointmentPage.class
+stepsObject\appointmentConfirmationPage.class
+utils\Hooks.class
