@@ -1,2 +1,2 @@
-# Selenium-Cura-With-Cucumber
+# SeleniumCura-with-cucumber
  This is for erajaya test
